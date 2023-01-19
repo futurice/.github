@@ -1,5 +1,7 @@
 ## Welcome Home
 
+![cover futurice](https://github.com/futurice/.github/blob/main/profile/header.png)
+
 We are **Futurice**, an outcome-focused digital transformation company. We help our clients solve their biggest challenges and empower them to make a positive impact on the world.
 
 We are a company with a unique culture and empowering values: **trust, transparency, care, and continuous improvement**. As the ultimate learning platform, we give you access to learning and training opportunities, catalyzing professional and personal progress for everyone. We follow clear diversity, equity, and inclusion goals and a code of conduct. Get inspired by the power of perspectives: each employee with their individual story weaves another thread into our unique cultural fabric.
