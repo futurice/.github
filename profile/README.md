@@ -6,7 +6,7 @@ We are **Futurice**, an outcome-focused digital transformation company. We help 
 
 We are a company with a unique culture and empowering values: **trust, transparency, care, and continuous improvement**. As the ultimate learning platform, we give you access to learning and training opportunities, catalyzing professional and personal progress for everyone. We follow clear diversity, equity, and inclusion goals and a code of conduct. Get inspired by the power of perspectives: each employee with their individual story weaves another thread into our unique cultural fabric.
 
-Founded in 2000, our team comprises **over 800 diverse experts** who represent more than **60 different nationalities**. We have Nordic roots and a global mindset and operate across Europe.
+**Founded in 2000**, our team comprises **over 800 diverse experts** who represent more than **60 different nationalities**. We have Nordic roots and a global mindset and operate across Europe.
 
 ## Would you like to know more?
 Our [website](https://www.futurice.com) has more information of what we actually do. And of course we are always looking for more tech talent to [join us](https://www.futurice.com/careers).
